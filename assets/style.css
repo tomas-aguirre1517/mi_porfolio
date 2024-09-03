@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://cdn.wallpapersafari.com/11/78/CqWHYk.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.marca{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.titulo{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.redes{
+    color: aliceblue;
+}
+.hb{
+    color: antiquewhite;
+}
+.titulo_2{
+    color: antiquewhite;
+    text-decoration: underline;
+}
+.nombre{
+    color: goldenrod;
+    font-size: 30px;
+}
